@@ -9,7 +9,7 @@ const features = [
   },
   {
     title: "Zero Atrasos",
-    description: "Respostas imediatas. O cliente não fica à espera nunca.",
+    description: "Respostas imediatas. O cliente nunca fica à espera.",
     icon: <Zap className="w-6 h-6 text-yellow-400" />,
     colSpan: "md:col-span-1",
   },

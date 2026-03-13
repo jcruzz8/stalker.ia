@@ -120,7 +120,7 @@ export default function Comparison() {
                 </div>
                 <div>
                   <h4 className="font-bold">Custo Reduzido</h4>
-                  <p className="text-sm text-white/90">Uma fração do custo de um salário. A partir de 99€.</p>
+                  <p className="text-sm text-white/90">Uma fração do custo de um salário. A partir de 99€/mês.</p>
                 </div>
               </li>
               <li className="flex gap-4">
