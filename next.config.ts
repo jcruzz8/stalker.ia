@@ -4,6 +4,8 @@ const nextConfig: NextConfig = {
   experimental: {
     webpackBuildWorker: true,
   },
+  // A SOLUÇÃO ENTRA AQUI 👇
+  turbopack: {},
   webpack: (config, { isServer }) => {
     if (!isServer) {
       config.resolve.fallback = {
