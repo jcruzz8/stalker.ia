@@ -1,11 +1,11 @@
-"use client";
-
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Check, Mail, Phone, Calendar } from "lucide-react";
 
 // @ts-ignore: Ignorar tipagem de import JS
 import LiquidEther from "@/components/LiquidEther";
+
+export const metadata = { title: "Agendar Reunião" };
 
 export default function AgendarPage() {
   return (
