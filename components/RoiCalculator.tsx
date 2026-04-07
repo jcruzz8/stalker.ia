@@ -145,9 +145,9 @@ export default function RoiCalculator() {
               </p>
             </div>
             
-             <button className="w-full py-4 bg-[#cba363] text-[#1c1612] font-bold rounded-xl hover:bg-[#f2d8a7] transition-colors shadow-lg shadow-[#cba363]/20 mt-2">
+             <a href="#precos" className="w-full block text-center py-4 bg-[#cba363] text-[#1c1612] font-bold rounded-xl hover:bg-[#f2d8a7] transition-colors shadow-lg shadow-[#cba363]/20 mt-2">
               Recuperar O Meu Dinheiro
-            </button>
+            </a>
           </div>
 
         </div>
