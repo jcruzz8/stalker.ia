@@ -16,11 +16,11 @@ export default function Comparison() {
              Quantos euros perdeu este mês <br />
              por{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#f2d8a7] to-[#cba363]">
-              não atender o telemóvel?
+              não responder a uma mensagem?
             </span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Cada chamada perdida é dinheiro que fica na mesa. Veja a diferença entre contratar uma pessoa e ativar a Stalker IA.
+            Cada mensagem perdida é dinheiro que fica na mesa. Veja a diferença entre contratar uma pessoa e ativar a Stalker IA.
           </p>
         </div>
 
@@ -55,7 +55,7 @@ export default function Comparison() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-200">1 Pessoa de Cada Vez</h4>
-                  <p className="text-sm text-gray-500">Se ligarem 2 clientes, um vai para o voicemail.</p>
+                  <p className="text-sm text-gray-500">Se vários clientes mandarem mensagens, alguns podem ficar esquecidos.</p>
                 </div>
               </li>
               <li className="flex gap-4">
@@ -111,7 +111,7 @@ export default function Comparison() {
                 </div>
                 <div>
                   <h4 className="font-bold">Escala Infinita</h4>
-                  <p className="text-sm text-white/90">Atende 100 chamadas ao mesmo tempo. Zero sinais de ocupado.</p>
+                  <p className="text-sm text-white/90">Responde a 100 mensagens ao mesmo tempo. Zero sinais de ocupado.</p>
                 </div>
               </li>
               <li className="flex gap-4">
@@ -136,9 +136,9 @@ export default function Comparison() {
 
             {/* Botão CTA dentro do Card */}
             <div className="mt-8 pt-8 border-t border-white/20">
-                <button className="w-full py-4 bg-white text-[#73542a] font-bold rounded-xl hover:bg-[#f2d8a7] hover:text-[#0c0805] transition-colors shadow-lg">
-                    Começar Agora
-                </button>
+                <a href="#precos" className="w-full block text-center py-4 bg-white text-[#73542a] font-bold rounded-xl hover:bg-[#f2d8a7] hover:text-[#0c0805] transition-colors shadow-lg">
+                  Começar Agora
+                </a>
             </div>
           </div>
 

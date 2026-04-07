@@ -5,7 +5,7 @@ import { Plus, Minus } from "lucide-react";
 
 const faqs = [
   {
-    question: "A IA fala Português de Portugal ou Brasileiro?",
+    question: "A IA fala Português de Portugal ou português do Brasil?",
     answer:
       "Nós configuramos a IA especificamente com sotaque de Portugal (PT-PT). Utilizamos vozes neuronais avançadas que soam naturais e profissionais, evitando o tom robótico.",
   },

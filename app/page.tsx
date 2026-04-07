@@ -54,7 +54,7 @@ export default function Home() {
             </h1>
 
             <p className="text-lg md:text-xl text-gray-400 mb-10 max-w-2xl mx-auto leading-relaxed">
-              Nunca mais perca uma chamada de negócio. A <span className="text-[#cba363] font-bold">Stalker</span> atende, esclarece dúvidas e agenda reuniões no <span className="text-[#f2d8a7] font-medium">Google Calendar</span>.
+              Nunca mais perca uma oportunidade de negócio. A <span className="text-[#cba363] font-bold">Stalker</span> responde, esclarece dúvidas e agenda reuniões no <span className="text-[#f2d8a7] font-medium">Google Calendar</span>.
             </p>
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 mt-10">

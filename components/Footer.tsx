@@ -20,7 +20,7 @@ export default function Footer() {
             <span className="text-xl font-bold">stalker.ia</span>
           </Link>
           <p className="text-gray-400 text-sm">
-            Automatização de atendimento por voz para empresas que valorizam o seu dinheiro.
+            Automatização com inteligência artificial para empresas que valorizam o seu dinheiro e os seus clientes.
           </p>
         </div>
 
