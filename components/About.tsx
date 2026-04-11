@@ -9,7 +9,7 @@ export default function About() {
       name: "José Cruz",
       role: "Engenheiro Informático",
       description: "O cérebro técnico. Especialista em arquitetura de software e inteligência artificial.",
-      image: "/jose.JPEG", // Substitui pelo caminho real da tua foto
+      image: "/jose.jpeg", // Substitui pelo caminho real da tua foto
       linkedin: "https://www.linkedin.com/in/jose-cruzz0812/",
     },
     {
