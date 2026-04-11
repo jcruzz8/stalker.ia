@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="space-y-4">
           <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Image 
-                src="/stalker_logo-remove.png" 
+                src="/STALKER_logo-remove.png" 
                 alt="Logótipo Stalker IA" 
                 width={64} 
                 height={64} 
